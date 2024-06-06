@@ -5,6 +5,7 @@ const TheForm = ({formData}) => {
 
   return (
     <>
+      <div className='form-container'>
         {formData?.map((component) => {
             switch (component.comp) {
               case 'TextInput':
@@ -21,6 +22,7 @@ const TheForm = ({formData}) => {
                 return null;
             }
         })}
+      </div>  
     </>
   )
 }

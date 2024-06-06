@@ -8,7 +8,7 @@ function App() {
   const {data , error , isLoading} = useGetJsonDataQuery();
 
   if(isLoading) {
-    return <LoaderOverlay/>
+    return <LoaderOverlay  loaderText={'Components Loading....'} />
   }
 
   if(error) {
@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-        <TheForm formData={data} />
+        <TheForm formData={data.data} />
     </>
   )
 }
