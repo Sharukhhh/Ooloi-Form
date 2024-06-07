@@ -14,7 +14,8 @@
     "oolib": "^2.125.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-redux": "^7.2.6"
+    "react-redux": "^7.2.6",
+    "sweetalert2": "^11.11.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
