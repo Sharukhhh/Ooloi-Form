@@ -12,6 +12,8 @@
 
 ## Screen grabs
 
-  - ![screenshot-1](screenshots/image-1.png)
+  ![screenshot-1](screenshots/image-1.png)
 
-  - ![screenshot-2](screenshots/image-2.png)
+  ---
+
+  ![screenshot-2](screenshots/image-2.png)
