@@ -1,7 +1,7 @@
 import React from 'react'
 import {TextInput , DropdownSingle , CheckboxList, RadioList, DatePicker} from 'oolib'
 
-const TheForm = ({formData}) => {
+const TheForm = React.memo(({formData}) => {
 
   return (
     <>
@@ -25,6 +25,6 @@ const TheForm = ({formData}) => {
       </div>  
     </>
   )
-}
+});
 
 export default TheForm

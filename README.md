@@ -10,10 +10,28 @@
  - **Backend API Link** : [API URL](https://ooloi-form-backend.onrender.com/api/data)
 
 
+
 ## Screen grabs
 
-  ![screenshot-1](screenshots/image-1.png)
+  ![screenshot-1](screenshots/image-1.png) 
 
-  ---
+
+  --
+
 
   ![screenshot-2](screenshots/image-2.png)
+
+
+
+## Technologies Used
+
+#### Frontend
+
+    - React
+    - Redux-toolkit Query (RTK Query)
+    - oolib
+
+#### Backend
+
+    - Node.js
+    - Express.js
