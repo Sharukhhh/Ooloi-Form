@@ -50,30 +50,29 @@
 
 
 ### Clone the repository 
-
-  1. https://github.com/Sharukhhh/Ooloi-Form.git
+    - git clone https://github.com/Sharukhhh/Ooloi-Form.git
 
 
 ### Setting up the backend
 
   1. Navigate to backend diectory
-    - cd back-end
+    - **cd back-end**
 
   2. Install the dependencies
-    - npm install
+    - **npm install**
   
   3. start the backend server
-    - npm start
+    - **npm start**
 
 
 
 ### Setting up the Frontend
 
   1. Navigate to frontend diectory
-    - cd front-end
+    - **cd front-end**
 
   2. Install the dependencies
-    - npm install
+    - **npm install**
   
   3. start the backend server
-    - npm run dev
+    - **npm run dev**
