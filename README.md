@@ -40,7 +40,7 @@
     - Express.js
 
 
-### Follow these steps to run this on your local machine:
+## Follow these steps to run this on your local machine:
 
 ### Prerequisites
 
