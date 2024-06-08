@@ -38,3 +38,42 @@
 
     - Node.js
     - Express.js
+
+
+### Follow these steps to run this on your local machine:
+
+### Prerequisites
+
+    - Node.js (v14.x or later)
+    - npm (v6.x or later) or yarn (v1.22.x or later)
+    - Git
+
+
+### Clone the repository 
+
+  1. https://github.com/Sharukhhh/Ooloi-Form.git
+
+
+### Setting up the backend
+
+  1. Navigate to backend diectory
+    - cd back-end
+
+  2. Install the dependencies
+    - npm install
+  
+  3. start the backend server
+    - npm start
+
+
+
+### Setting up the Frontend
+
+  1. Navigate to frontend diectory
+    - cd front-end
+
+  2. Install the dependencies
+    - npm install
+  
+  3. start the backend server
+    - npm run dev
