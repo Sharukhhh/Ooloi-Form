@@ -81,3 +81,8 @@
     ```sh
     npm install
     ```
+
+- Start the frontend:
+    ```sh
+    npm run dev
+    ```
